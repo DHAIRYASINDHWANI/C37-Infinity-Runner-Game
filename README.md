@@ -1,1 +1,2 @@
-# C37-Infinity-Runner-Game
+#InfinityRunnerGame
+Infinity Runner Game created using Viaual Studio Code
